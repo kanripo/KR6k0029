@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部毘奈耶藥事
+#+DATE: 2015-08-30 20:41:55.118313
+#+PROPERTY: JUAN 0
