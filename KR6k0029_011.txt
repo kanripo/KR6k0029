@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.395665
+#+DATE: 2015-08-30 20:41:57.586170
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0029_T_011-0047b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 11
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第十一¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -22,7 +21,7 @@
 阿難陀至王門首。告守宮門者。仁今為我。啟¶
 奏王知。具壽阿難陀。今在門首。欲見大王。時¶
 守門人便奏王言。大王當知。聖者阿難陀。¶
-佇立門首。冀見大王。王曰。我今思望見福祥¶
+佇立門首。冀見大王。王曰。我今思望見福詳¶
 事。阿難陀苾芻。是大尊貴豪族勝人。是即福¶
 祥。善有名稱。有善顏容。有善色相。所言皆¶
 善。修諸善品。可屈入宮。誰敢留難。其守門¶

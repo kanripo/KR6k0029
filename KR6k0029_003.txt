@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.157060
+#+DATE: 2015-08-30 20:41:57.325357
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0029_T_003-0010a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第三¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -134,7 +133,7 @@
 說。圓滿先未曾聞有佛法名。今日得聞。身毛¶
 皆竪。深生信心。即問商人。何者是佛。答言。¶
 有沙門喬答摩。從釋迦種。剃除鬚髮。被著袈¶
-裟。正信出家。捐棄國邑。處於山林。得成無上¶
+娑。正信出家。捐棄國邑。處於山林。得成無上¶
 正等菩提。此名為佛。復問彼曰。佛於今者。住¶
 在何處。答曰。今在室羅伐城。逝多林。給孤獨¶
 園。圓滿聞已。繫念在心。與諸商人。安隱而¶

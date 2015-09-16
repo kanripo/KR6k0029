@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.365840
+#+DATE: 2015-08-30 20:41:57.553796
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0029_T_010-0042c> 
 #+PROPERTY: JUAN 10
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第十¶
 ¶
 大唐三藏義淨奉　制譯¶
 
-:PROPERTIES:
-:head: 儞羅步提緣
-:END:
-¶
+儞羅步提緣¶
 
 爾時世尊。於勇軍人間遊行。漸至末土羅城。¶
 其中淨行婆羅門等。聞喬答摩沙門。到末土¶

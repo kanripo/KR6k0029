@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.620299
+#+DATE: 2015-08-30 20:41:57.810693
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0029_T_017-0082c> 
 #+PROPERTY: JUAN 17
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第十七¶
 ¶
 大唐三藏義淨奉　制譯¶
 
-:PROPERTIES:
-:head: 諸大弟子說業報緣
-:END:
-¶
+諸大弟子說業報緣¶
 
 爾時諸大聲聞耆宿苾芻。告具壽薄俱羅曰。¶
 具壽財益。已說本業。次至仁說本業因緣。爾¶
@@ -697,7 +693,7 @@
 　不顧其性命
 　證得無上寂¶
 　我於先有中
-　懶惰極慳法¶
+　[悚*頁]惰極慳法¶
 　由斯果報故
 　艱難得解脫¶
 　又我於臨終
@@ -936,7 +932,7 @@
 　起塔鮮白淨¶
 　嚴飾塗香已
 　黃色而覆上¶
-　䠒跪合掌言
+　[跍*月]合掌言
 　當願諸根具¶
 　身相如金色
 　善持而不變¶
@@ -1177,7 +1173,7 @@
 　就家受微供¶
 　供養彼德已
 　合掌而發願¶
-　願我當來世
+　願我當當世
 　常逢此尊師¶
 　見佛生恭敬
 　而為作出家¶
