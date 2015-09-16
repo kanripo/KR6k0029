@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.423386
+#+DATE: 2015-08-30 20:41:56.600611
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0029_T_012-0052a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 12
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第十二¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -309,7 +308,7 @@
 孤陋。病苦疾者。我今應為而施一食。作是念¶
 已即便化身。詣貧窮處。羸弱孤單。隨作草菴¶
 如亂巢穴。變自形儀。作醜陋織師。頭髮蓬亂。¶
-著麁麻衣。手皴脚劈。而為織作。舍支夫人。身¶
+著麁麻衣。手[峻-山+皮]脚劈。而為織作。舍支夫人。身¶
 為織妻。以撚其綖。取天妙食。預置一邊。時迦¶
 攝波。為欲哀愍諸窮厄者。巡行告乞。次第¶
 而至。見已。情甚愍此貧弊。佇立門首。持鉢從¶

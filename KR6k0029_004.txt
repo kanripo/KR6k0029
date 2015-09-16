@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.190898
+#+DATE: 2015-08-30 20:41:56.353513
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0029_T_004-0015a> ¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第四¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -51,7 +50,7 @@
 時彼諸仙苾芻。勤精進故。乃至證得阿羅漢¶
 果。厭離三世。觀金與土平等無異目觀法界。¶
 如見掌中。刀割香塗。等無有異。以智慧劍。破¶
-生死㲉。三明六通。具八解脫。辯才無礙。諸有¶
+生死[穀-禾+卵]。三明六通。具八解脫。辯才無礙。諸有¶
 財利。貪愛供養。悉皆捨離。釋梵諸天。咸來供¶
 養。時彼諸仙本教授師白佛言。世尊。我以¶
 仙人形貌。誑惑世人。墜墮三惡。我先調伏彼¶

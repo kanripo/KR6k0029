@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.216938
+#+DATE: 2015-08-30 20:41:56.381043
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0029_T_005-0019b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第五¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -199,7 +198,7 @@
 共然佛語。復遣使來。令都末羅指摩揭陀國¶
 未生怨王所。傳我等言。而慰問曰。少病少惱。¶
 起居輕利。安樂住不。作是請言。唯願大王許¶
-如來往薜舍離城。王若不許世尊往者。薜舍¶
+如來往薛舍離城。王若不許世尊往者。薜舍¶
 離城不久磨滅。空有殘名而無人眾。是時都
 <pb:KR6k0029_T_005-0021b>¶
 末羅布盧呬多作如是念。我今為當先見大¶

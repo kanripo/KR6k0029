@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:41:54.122459
+#+DATE: 2015-08-30 20:41:56.288647
 #+TITLE: 根本說一切有部毘奈耶藥事
 #+PROPERTY: CBETA_ID T24n1448
 #+PROPERTY: ID KR6k0029
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1448
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6k0029_T_002-0005b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 《根本說一切有部毘奈耶藥事》¶
+《根本說一切有部毘奈耶藥事》¶
 卷第二¶
 ¶
 大唐三藏義淨奉　制譯¶
@@ -303,7 +302,7 @@
 乳母。日夜供給。并以乳酪。生酥熟酥。及以醍¶
 醐。以為所食。嚴身資具。飲食湯藥。日倍勝¶
 前。由此因緣。速便長大。如清淨池。蓮花開¶
-敷。既長大已。教令習學書算印法。及以券記。¶
+敷。既長大已。教令習學書算印法。及以劵記。¶
 分別財物。相諸衣服。珍寶好醜。并令分別。木¶
 之善惡。象馬優劣。童男童女。貴賤等相。此之¶
 八種。並令誦習。而得通利。既了達已。復能轉¶
